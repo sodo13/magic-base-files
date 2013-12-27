@@ -1,0 +1,7 @@
+config.plugins.AccuWeatherPlugin.foreEntries.1.city=krakow
+config.plugins.AccuWeatherPlugin.foreEntries.1.dominio=pl
+config.plugins.AccuWeatherPlugin.foreEntries.1.pais=poland
+config.plugins.AccuWeatherPlugin.foreEntries.2.city=moscow
+config.plugins.AccuWeatherPlugin.foreEntries.2.dominio=ru
+config.plugins.AccuWeatherPlugin.foreEntries.2.pais=russia
+config.plugins.AccuWeatherPlugin.foreentriescount=3
